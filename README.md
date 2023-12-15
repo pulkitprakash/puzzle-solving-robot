@@ -9,4 +9,4 @@ The objective of the competition is to build a robot that can successfully solve
 
 ## Demo
 
-See the sample [video] (https://www.youtube.com/watch?v=COEiGJfXYqE)
+See the sample [video](https://www.youtube.com/watch?v=COEiGJfXYqE)
